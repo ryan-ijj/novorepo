@@ -1,0 +1,1 @@
+print("Function profile")
